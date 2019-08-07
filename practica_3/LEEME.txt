@@ -1,0 +1,31 @@
+/****************************************************************
+*	Practica 3  Informática Gráfica
+*
+*	Grado en Ingeniería Informática
+*
+*	2017 - Félix Ramírez García <felixramirezgarcia@correo.ugr.es>
+*
+****************************************************************/
+Opcoines de compilacion:
+	make
+	make redo
+	make clean
+Uso:
+	Tecla p: Visualizar en modo puntos
+	Tecla l: Visualizar en modo líneas/aristas
+	Tecla f: Visualizar en modo relleno
+	Tecla c: Visualizar en modo ajedrez
+	Tecla 0: Activar piramide
+	Tecla 1: Activar tetraedo
+	Tecla 2: Activar cubo
+	Tecla 3: Activar objeto PLY cargado
+	Tecla 4: Activar objeto por revolución (se activan o desactivan las tapas volviendo a pulsar)
+	Tecla 5: Activar objeto jerárquico
+	Tecla Z/z: modifica primer grado de libertad del modelo jerárquico (aumenta/dismi-nuye)
+	Tecla X/x: modifica segundo grado de libertad del modelo jerárquico (aumenta/dis-minuye)
+	Tecla V/v: modifica tercer grado de libertad del modelo jerárquico (aumenta/dismi-nuye)
+
+Ejecucion:
+	Una vez dentro de la carpeta del proyecto
+	./practica3 ./ply/nombre_ply.ply
+	Al pulsar la tecla 4 revoluciona el objeto ply cargado

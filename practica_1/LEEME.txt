@@ -1,0 +1,19 @@
+Práctica 1 de Informática Gráfica.
+
+Realizada por Félix Ramírez García.
+
+Para la compilación solo es necesario ejecutar la orden make ubicado en esta misma carpeta.
+
+Para la ejecucion no es necesario ningún parámetro, se ejecuta de la forma:
+	./practica1
+
+Las instrucciones de uso de la práctica son las siguientes:
+	Tecla p: Visualizar en modo puntos.
+	Tecla l: Visualizar en modo líneas/aristas.
+	Tecla s: Visualizar en modo sólido.
+	Tecla a: Visualizar en modo ajedrez.
+	Tecla 1: Activar tetraedo.
+	Tecla 2: Activar cubo.
+	Tecla 3: Activar piramide.
+
+	Nota: Para poder visualizar los distintos modos , hay que activar antes alguno de los objetos.
